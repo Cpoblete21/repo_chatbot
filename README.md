@@ -58,6 +58,10 @@ Open your browser and navigate to http://localhost:8050
 Select repositories from the dropdown menu
 Explore repository metrics in the analytics dashboard
 Use the chatbot interface to ask questions about repositories
+
+
+
+
 📁 Project Structure
 cmdb_chatbot/
 ├── frontend/           # Frontend Dash application
