@@ -59,7 +59,7 @@ def analyze_repos(base_folder):
 # Main execution
 # -------------------------------
 if __name__ == "__main__":
-    folder = "/Users/cristobal.poblete/Desktop/codes/Repos"  # local repo 
+    folder = "/Path/To/Repo/Folder"  # local repo 
     #folder= "/app/repos"        #docker path
     df = analyze_repos(folder)
     print(df)
